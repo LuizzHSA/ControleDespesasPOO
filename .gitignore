@@ -1,0 +1,16 @@
+# Compilados Java
+*.class
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Diretórios comuns
+/bin/
+/out/
+/target/
+
+# IDEs
+/.idea/
+*.iml
+/.vscode/
